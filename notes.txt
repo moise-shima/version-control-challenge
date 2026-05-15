@@ -1,0 +1,13 @@
+# Git and GitHub Notes
+
+## What is Git?
+Git is a version control system used to track changes in files.
+
+## What is GitHub?
+GitHub is an online platform used to host Git repositories.
+
+## Basic Git Commands
+
+### Check repository status
+```bash
+git status
